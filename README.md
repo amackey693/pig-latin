@@ -8,13 +8,14 @@ with numerical values         |         |
 - Adds "way" to the end of a  |  away   | awayway
 word beginning w/ a vowel     |         | 
 
+- Add "ay" to the end of any  |  plant  | antplay
+word with with consonants     |         | 
+
 - Words beginning one or more |  latin  | atinl  
 consonants, move all of the   |         | 
 first consecutive consonants  |         |
 to the end of that word       |         |
 
-- Add "ay" to the end of any  |  plant  | antplay
-word with with consonants     |         | 
 
 - If the first consonants     | squeal  | ealsquay
 include "qu", move the "u"    |         |
