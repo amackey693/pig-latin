@@ -1,7 +1,9 @@
-|Description|Input Example|Output Example| 
-|---|---|---|---|---|
+|Behavior Description         |Input Ex.| Output Ex.| 
+|-----------------------------|---------|-----------|
+- Does nothing to characters  |  2020   | 2020     
+with numerical values         |         |
 
-
+- Ignores Capitalization      | HeLLo   | HeLLo   
 
 - Adds "way" to the end of a  |  away   | awayway
 word beginning w/ a vowel     |         | 
@@ -22,7 +24,6 @@ along with the "q"            |         |
 treat "y" as a consonant.     |         |
 
 - "y" acts as a vowel as long | style   | ylestay
-as its not the first consonant
+as its not the first consonant|         |
 
-latin = atinlay
-when = enwhay
+l
